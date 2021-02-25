@@ -1,0 +1,11 @@
+{
+  "name":"circlecijavascriptexample",
+  "author":"tomoya<tomoya.ton@gmail.com>",
+  "license":"MIT",
+  "scripts":{
+    "test":"jest"
+  },
+  "devDependencies":{
+    "jest":"26.1.0"
+  }
+}
